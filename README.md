@@ -101,8 +101,8 @@ By using a trapezoidal equation devised by my friend [MartinMimiGames](https://g
 ```
 
 ## Screenshots
-<p align="center"><img width="50%" src="https://github.com/alexlostorto/Calculus/raw/main/git_images/velocity_time_graph_1.PNG" alt="velocity time graph high number of splits" /></p>
-<p align="center"><img width="50%" src="https://github.com/alexlostorto/Calculus/raw/main/git_images/velocity_time_graph_2.PNG" alt="velocity time graph low number of splits" /></p>
+<p align="center"><img width="80%" src="https://github.com/alexlostorto/Calculus/raw/main/git_images/velocity_time_graph_1.PNG" alt="velocity time graph high number of splits" /></p>
+<p align="center"><img width="80%" src="https://github.com/alexlostorto/Calculus/raw/main/git_images/velocity_time_graph_2.PNG" alt="velocity time graph low number of splits" /></p>
 
 ## Credits 
 
