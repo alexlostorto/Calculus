@@ -90,7 +90,7 @@ Since the graph is made of straight lines, by splitting the graph into triangles
 
 #### Method 2
 
-By using a trapezoidal equation devised by my friend [MartinMimiGames](https://github.com/martinmimigames), the area under the graph is approximated; the higher the number of splits, the more accurate the approximation.
+By using a trapezoidal equation devised by my friend [MartinMimi](https://github.com/wmartinmimi), the area under the graph is approximated; the higher the number of splits, the more accurate the approximation.
 
 ``` python
     def method2():
