@@ -1,13 +1,19 @@
 <h1 align="center">Calculus</h1>
 
+<p align="center">
+  <b>Calculate area under a graph.</b>
+</p>
+
+[![Maintainability](https://img.shields.io/codeclimate/maintainability/alexlostorto/Calculus?style=for-the-badge&message=Code+Climate&labelColor=222222&logo=Code+Climate&logoColor=FFFFFF)](https://codeclimate.com/github/alexlostorto/Calculus/maintainability)
+
 The program uses the trapezoidal rule to calculate the area under a graph with a custom number of splits. The individual splits are shown on the graph using matplotlib.
 
-## Set-up
+## ⚡ Set-up
 ```
 pip install matplotlib
 ```
 
-## How it Works 
+## 📋 How it Works 
 
 1) The line equation is calculated for each set of points by calculating the gradient and solving for the y-intercept.
 
@@ -72,7 +78,7 @@ pip install matplotlib
         return y1
 ```
 
-## Analysis of methods 
+## 📈 Analysis of methods 
 
 #### Method 1
 
@@ -100,11 +106,11 @@ By using a trapezoidal equation devised by my friend [MartinMimi](https://github
         return area2
 ```
 
-## Screenshots
+## 🎬 Screenshots
 <p align="center"><img width="80%" src="https://github.com/alexlostorto/Calculus/raw/main/git_images/velocity_time_graph_1.PNG" alt="velocity time graph high number of splits" /></p>
 <p align="center"><img width="80%" src="https://github.com/alexlostorto/Calculus/raw/main/git_images/velocity_time_graph_2.PNG" alt="velocity time graph low number of splits" /></p>
 
-## Credits 
+## 📜 Credits 
 
 Everything is coded by Alex lo Storto
 
